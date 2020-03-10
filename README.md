@@ -21,6 +21,13 @@ nc -u -lvp 4242
 ### WFUZZ
 ```
 Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
 ```
 
 ### DIRB
