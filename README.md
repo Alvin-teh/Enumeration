@@ -1,8 +1,18 @@
 # Enumeration
 
-## NMAP
+## Summary
+* [Reverse Shell](#reverse-shell)
+    * [Bash TCP](#bash-tcp)
+    * [Bash UDP](#bash-udp)
+    * [Socat](#socat)
+    * [Perl](#perl)
+    * [Python](#python)
+    * [PHP](#php)
+    * [Ruby](#ruby)
+    * [Golang](#golang)
 
-### TCP
+
+### NMAP
 
 ```bash
 Victim:
