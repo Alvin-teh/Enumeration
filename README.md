@@ -3,7 +3,7 @@
 ## Summary
 * [NMAP](#NMAP)
 * [WFUZZ](#WFUZZ)
-* [DIRB](#DIRB)
+* [DB](#DIRB)
 * [DIRBUSTER](#DIRBUSTER)
 
  
