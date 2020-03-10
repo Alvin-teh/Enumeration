@@ -27,14 +27,7 @@ nc -u -lvp 4242
 
 ### WFUZZ
 ```
-Test
-Test
-Test
-Test
-Test
-Test
-Test
-Test
+https://wfuzz.readthedocs.io/en/latest/user/basicusage.html
 ```
 
 ### DIRB
