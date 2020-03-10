@@ -28,6 +28,7 @@ nc -u -lvp 4242
 ### WFUZZ
 ```
 https://wfuzz.readthedocs.io/en/latest/user/basicusage.html
+https://medium.com/bugbountywriteup/how-to-brute-force-efficiently-without-burp-pro-1bb2a414a09f
 ```
 
 ### DIRB
