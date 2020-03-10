@@ -4,7 +4,7 @@
 * [NMAP](#NMAP)
 * [WFUZZ](#WFUZZ)
 * [DIRB](#DIRB)
-* [DIRBUSTER](#DISRBU)
+* [DIRBU](#DISRBUSTER)
 
  
 
