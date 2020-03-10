@@ -12,7 +12,7 @@
 * [Credentials](#)
    * [John-the-Ripper](#)
    * [hashcat](#)
-   * [](#)
+   * [Hydra](#)
 * [](#)
 * [](#)
 * [](#)
@@ -43,6 +43,31 @@ Test
 ```
 
 ### DIRBUSTER
+```
+Test
+```
+
+### Credentials
+```
+Test
+```
+
+### John-the-Ripper
+```
+Test
+```
+
+### Hashcat
+```
+Test
+```
+
+### Hydra
+```
+Test
+```
+
+### 
 ```
 Test
 ```
