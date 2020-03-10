@@ -5,7 +5,13 @@
 * [WFUZZ](#WFUZZ)
 * [DB](#DIRB)
 * [DIRBUSTER](#DIRBUSTER)
-
+* [Credentials](#)
+   * [](#)
+* [](#)
+* [](#)
+* [](#)
+* [](#)
+* [](#)
  
 
 ### NMAP
