@@ -8,7 +8,7 @@
    * [DIRBUSTER](#DIRBUSTER)
 * [Credentials](#)
    * [John-the-Ripper](#)
-* [](#)
+   * [hashcat](#)
 * [](#)
 * [](#)
 * [](#)
