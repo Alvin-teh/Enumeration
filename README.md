@@ -4,8 +4,8 @@
 * [NMAP](#NMAP)
 * [WFUZZ](#WFUZZ)
 * [DIRB](#DIRB)
-* [DIRBUSTER](#DISRBUSTER)
-    * [Bash TCP](#bash-tcp)
+* [DIRBUSTER](#DISRBU)
+
  
 
 ### NMAP
